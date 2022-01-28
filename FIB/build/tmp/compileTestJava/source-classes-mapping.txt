@@ -1,0 +1,32 @@
+clinang/Locators/CommonLocators.java
+ clinang.Locators.CommonLocators
+clinang/webDriverUtils/propertyFileRead.java
+ clinang.webDriverUtils.propertyFileRead
+clinang/webDriverUtils/WebDriverImplemented.java
+ clinang.webDriverUtils.WebDriverImplemented
+clinang/DB/DB_Connection.java
+ clinang.DB.DB_Connection
+clinang/webDriverUtils/InitiateDriver.java
+ clinang.webDriverUtils.InitiateDriver
+clinang/Locators/ClinicAdmin_LoginLocators.java
+ clinang.Locators.ClinicAdmin_LoginLocators
+clinang/webDriverUtils/CustomDriver.java
+ clinang.webDriverUtils.CustomDriver
+ clinang.webDriverUtils.CustomDriver$1
+ clinang.webDriverUtils.CustomDriver$2
+ clinang.webDriverUtils.CustomDriver$3
+ clinang.webDriverUtils.CustomDriver$4
+clinang/testRunner/LoginRunner.java
+ clinang.testRunner.LoginRunner
+clinang/Locators/Patient_LoginLocators.java
+ clinang.Locators.Patient_LoginLocators
+clinang/pageUtils/CommonPageUtils.java
+ clinang.pageUtils.CommonPageUtils
+clinang/webDriverUtils/Hooks_Utils.java
+ clinang.webDriverUtils.Hooks_Utils
+clinang/webDriverUtils/RunTimeVariables.java
+ clinang.webDriverUtils.RunTimeVariables
+clinang/API_StepDef/API_PatientRegister_stepDef.java
+ clinang.API_StepDef.API_PatientRegister_stepDef
+clinang/API_Utils/API_Patient_Register_AllInput_existingEmail.java
+ clinang.API_Utils.API_Patient_Register_AllInput_existingEmail
